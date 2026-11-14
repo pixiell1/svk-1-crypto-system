@@ -1,0 +1,13 @@
+{
+  "logging": {
+    "log_path": "logs/security.log",
+    "log_format": "json",
+    "cleanup_period": "30d",
+    "max_file_size": "100MB"
+  },
+  "crypto": {
+    "encryption": "СТБ 34.101.31",
+    "hashing": "7",
+    "digital_signature": "ECDSA-P256"
+  }
+}

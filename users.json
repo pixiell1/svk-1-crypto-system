@@ -1,0 +1,18 @@
+{
+    "users": {
+        "admin": {
+            "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+            "role": "admin"
+        }
+    },
+    "security": {
+        "admin": {
+            "attempts": 3,
+            "blocked_until": 1794583266.4368117
+        },
+        "ADAD": {
+            "attempts": 1,
+            "blocked_until": 0
+        }
+    }
+}

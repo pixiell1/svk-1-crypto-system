@@ -1,0 +1,26 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2025-04-28T14:32:00Z",
+    "component": {
+      "name": "SVK-1",
+      "version": "2.1.3",
+      "type": "application"
+    }
+  },
+  "components": [
+    {
+      "type": "file",
+      "name": "main.py",
+      "version": "2.1.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f77a0b10c592e1133d5aa0244e951c6818d5e17dab4e1d4f0852143a94ef2adb"
+        }
+      ]
+    }
+  ]
+}
